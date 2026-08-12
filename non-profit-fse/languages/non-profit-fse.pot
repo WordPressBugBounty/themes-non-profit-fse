@@ -1,4 +1,4 @@
-# Copyright (C) 2025 ThemeIsle
+# Copyright (C) 2026 ThemeIsle
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-05-30T12:09:28+00:00\n"
+"POT-Creation-Date: 2026-08-12T12:54:05+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: non-profit-fse\n"
@@ -125,19 +125,19 @@ msgstr ""
 msgid "Need to accept payments or donations? Try %1$s, built by the same team as your theme — now up to %2$s OFF, for a limited time only."
 msgstr ""
 
-#: inc/Block_Patterns.php:63
+#: inc/Block_Patterns.php:62
 msgid "Non Profit FSE Patterns"
 msgstr ""
 
-#: inc/Block_Patterns.php:64
+#: inc/Block_Patterns.php:63
 msgid "Patterns for several sections and components"
 msgstr ""
 
-#: inc/Block_Patterns.php:67
+#: inc/Block_Patterns.php:66
 msgid "Non Profit FSE Layouts"
 msgstr ""
 
-#: inc/Block_Patterns.php:68
+#: inc/Block_Patterns.php:67
 msgid "Full-page layouts that can be used as templates"
 msgstr ""
 

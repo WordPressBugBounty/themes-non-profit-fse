@@ -11,14 +11,14 @@ class ComposerStaticInit907c500ffec050c9e26dbfe7f581b2de
     );
 
     public static $prefixLengthsPsr4 = array (
-        'N' => 
+        'N' =>
         array (
             'NonProfitFSE\\' => 13,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'NonProfitFSE\\' => 
+        'NonProfitFSE\\' =>
         array (
             0 => __DIR__ . '/../..' . '/inc',
         ),
