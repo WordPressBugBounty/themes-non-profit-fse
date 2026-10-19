@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-08-12T12:54:05+00:00\n"
+"POT-Creation-Date: 2026-10-19T08:51:08+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: non-profit-fse\n"
@@ -55,74 +55,98 @@ msgstr ""
 msgid "You appear to be running the Non Profit FSE theme from source code. Please finish installation by running %s."
 msgstr ""
 
-#: inc/Admin.php:99
+#: inc/Admin.php:100
 msgid "Activating"
 msgstr ""
 
-#: inc/Admin.php:100
+#: inc/Admin.php:101
 msgid "Installing"
 msgstr ""
 
-#: inc/Admin.php:101
+#: inc/Admin.php:102
 msgid "Done"
 msgstr ""
 
 #. translators: %s: 🎉 emoji
-#: inc/Admin.php:114
+#: inc/Admin.php:115
 #, php-format
 msgid "Accept Donations on Your Non-Profit Site %s"
 msgstr ""
 
 #. translators: %s: WP Full Pay
-#: inc/Admin.php:119
+#: inc/Admin.php:120
 #, php-format
 msgid "Start Collecting Funds with %s!"
 msgstr ""
 
-#: inc/Admin.php:123
+#: inc/Admin.php:124
 msgid "The simplest way to accept donations and payments on your WordPress site. Set up in minutes with no technical knowledge required."
 msgstr ""
 
-#: inc/Admin.php:124
+#: inc/Admin.php:125
 msgid "Quick setup"
 msgstr ""
 
-#: inc/Admin.php:124
+#: inc/Admin.php:125
 msgid "Connect to Stripe and create your first donation form in minutes"
 msgstr ""
 
-#: inc/Admin.php:125
+#: inc/Admin.php:126
 msgid "Multiple payment options"
 msgstr ""
 
-#: inc/Admin.php:125
+#: inc/Admin.php:126
 msgid "One-time and recurring donations with customizable amounts"
 msgstr ""
 
 #. translators: %s: WP Full Pay
-#: inc/Admin.php:135
+#: inc/Admin.php:136
 #, php-format
 msgid "Activate %s"
 msgstr ""
 
 #. translators: %s: WP Full Pay
-#: inc/Admin.php:137
+#: inc/Admin.php:138
 #, php-format
 msgid "Install & Activate %s"
 msgstr ""
 
-#: inc/Admin.php:142
+#: inc/Admin.php:143
 msgid "Learn More"
 msgstr ""
 
-#: inc/Admin.php:150
+#: inc/Admin.php:151
 msgid "WP Full Pay preview"
 msgstr ""
 
 #. translators: %1$s - plugin name, %2$s - HTML tag, %3$s - discount.
-#: inc/Admin.php:295
+#: inc/Admin.php:296
 #, php-format
 msgid "Need to accept payments or donations? Try %1$s, built by the same team as your theme — now up to %2$s OFF, for a limited time only."
+msgstr ""
+
+#: inc/Admin.php:321
+msgid "change your site's style"
+msgstr ""
+
+#: inc/Admin.php:322
+msgid "put a donate button in your header"
+msgstr ""
+
+#: inc/Admin.php:323
+msgid "add a campaign section to any page"
+msgstr ""
+
+#: inc/Admin.php:326
+msgid "Add a Donate button to the right of my header menu, linking to /donate."
+msgstr ""
+
+#: inc/Admin.php:327
+msgid "Switch my site to the Non-Profit FSE style variation with the green palette."
+msgstr ""
+
+#: inc/Admin.php:328
+msgid "Insert a campaign progress pattern from my theme at the top of the Get Involved page."
 msgstr ""
 
 #: inc/Block_Patterns.php:62
